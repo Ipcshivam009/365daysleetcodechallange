@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0141-linked-list-cycle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
