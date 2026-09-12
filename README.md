@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
