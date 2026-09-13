@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
