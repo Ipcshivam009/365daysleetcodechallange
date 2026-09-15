@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
