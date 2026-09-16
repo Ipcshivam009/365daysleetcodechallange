@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [0836-rectangle-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
