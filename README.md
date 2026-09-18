@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0835-image-overlap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
