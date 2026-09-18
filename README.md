@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3483-unique-3-digit-even-numbers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
