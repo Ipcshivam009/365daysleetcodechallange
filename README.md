@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
