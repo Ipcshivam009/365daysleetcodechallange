@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0205-isomorphic-strings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [0836-rectangle-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0836-rectangle-overlap) |
@@ -226,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
