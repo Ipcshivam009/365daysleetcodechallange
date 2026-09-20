@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3498-reverse-degree-of-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
