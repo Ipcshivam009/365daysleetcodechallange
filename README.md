@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2278-percentage-of-letter-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3498-reverse-degree-of-a-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
 |  |
 | ------- |
