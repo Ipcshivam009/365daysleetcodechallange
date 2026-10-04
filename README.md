@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0835-image-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0835-image-overlap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
