@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0917-reverse-only-letters) |
 | [1096-brace-expansion-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1108-defanging-an-ip-address) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
