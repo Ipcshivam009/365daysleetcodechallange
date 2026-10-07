@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0165-compare-version-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0151-reverse-words-in-a-string) |
