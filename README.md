@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Pigeonhole Principle
 |  |
 | ------- |
