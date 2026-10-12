@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2235-add-two-integers](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
