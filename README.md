@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0835-image-overlap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1002-find-common-characters) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2089-find-target-indices-after-sorting-array) |
