@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Brainteaser
