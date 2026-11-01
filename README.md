@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1401-circle-and-rectangle-overlapping) |
