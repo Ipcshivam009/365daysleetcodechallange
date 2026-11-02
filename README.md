@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ipcshivam009/365daysleetcodechallange/tree/master/1401-circle-and-rectangle-overlapping) |
